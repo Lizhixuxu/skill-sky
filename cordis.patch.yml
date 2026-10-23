@@ -1,0 +1,4 @@
+# Skill Sky bundle patch: inserts the skin's client row into the web roster.
+- insert:
+    - id: skill-sky
+      name: 'skill-sky'
