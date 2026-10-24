@@ -1,7 +1,7 @@
 {
   "name": "skill-sky",
-  "description": "Skill Sky — a deep-blue starfield UI skin for DeepSeek Harness: fluorescent blue palette, a CSS starfield with depth-layered nebulae, six independently twinkling four-point stars, a glass-rimmed sidebar clock with a seven-segment digital readout, and a diamond-dust pane splitter.",
-  "version": "1.0.0",
+  "description": "Skill Sky — a deep-blue starfield UI skin for DeepSeek Harness: fluorescent blue palette, a CSS starfield with depth-layered nebulae, six independently twinkling four-point stars, a glowing brand star with a typographic wordmark, a glass-rimmed sidebar clock with a seven-segment digital readout, a diamond-dust pane splitter, and a bright glass composer frame.",
+  "version": "1.1.0",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
